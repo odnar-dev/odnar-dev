@@ -14,7 +14,9 @@
 ## 
 <p align="center">
 	<a href="https://github.com/odnar-dev">github</a> | 
-	<a href="https://old.reddit.com/user/odnar-dev/">reddit</a>
+	<a href="https://old.reddit.com/user/odnar-dev/">reddit</a> | 
+	<a href="https://twitter.com/OddOdnar">twitter</a>
+
 </p>
 
 <p align="center">
